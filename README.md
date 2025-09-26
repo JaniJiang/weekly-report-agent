@@ -29,3 +29,31 @@ The system has already been deployed internally as an **Agent workflow**, enabli
    ```bash
    git clone https://github.com/JaniJiang/weekly-report-agent.git
    cd weekly-report-agent
+
+---
+
+2. Install dependencies:
+
+```pip install -r requirements.txt
+
+```
+---
+
+3. Run the Jupyter notebook:
+
+```jupyter notebook notebooks/weekly_report_demo.ipynb
+
+```
+## Example Output
+
+Example report: Week16.xlsx
+
+Below is a sample chart generated automatically:
+
+## Application
+
+This project has been deployed as an internal Agent system, providing automated report generation and interactive data analysis for analysts.
+It demonstrates how AI + automation can replace repetitive data processing work and improve efficiency by 80%+
+
+
+   
