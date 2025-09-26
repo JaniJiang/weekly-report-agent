@@ -36,7 +36,7 @@ The system has already been deployed internally as an **Agent workflow**, enabli
 
 ```pip install -r requirements.txt
 
-```
+
 ---
 
 3. Run the Jupyter notebook:
