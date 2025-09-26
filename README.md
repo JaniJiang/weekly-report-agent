@@ -35,15 +35,13 @@ The system has already been deployed internally as an **Agent workflow**, enabli
 2. Install dependencies:
 
 ```pip install -r requirements.txt
-```
 
 ---
 
 3. Run the Jupyter notebook:
 
 ```jupyter notebook notebooks/weekly_report_demo.ipynb
-```
----
+
 
 ## Example Output
 
