@@ -1,0 +1,14 @@
+weekly-report-agent/
+├── notebooks/
+│   └── weekly_report_demo.ipynb       # Jupyter Notebook (core code)
+├── sample_data/
+│   ├── product_analysis_20250501.xlsx
+│   ├── product_analysis_20250502.xlsx
+│   └── ...                            # Example input data
+├── output_examples/
+│   ├── Week16.xlsx                    # Example generated weekly report
+│   └── Week16.png                     # (optional) chart screenshot from report
+├── requirements.txt                   # Dependencies
+├── README.md                          # Project documentation
+└── LICENSE                            # Open source license (MIT recommended)
+ 
